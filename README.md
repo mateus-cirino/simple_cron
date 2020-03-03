@@ -14,6 +14,6 @@ O caracter (*) serve para ser executado sempre, por exemplo se colocarmos o cara
 Após digitar o comando `crontab-e`, basta adicionar o seu CRONJOB no final dela.
 ### Listar todos os CRONJOBS da tabela
 Basta executar o comando `crontab -l`.
-
-
-
+### Agradecimentos
+[Bóson Treinamentos](https://www.youtube.com/watch?v=GGTbXq1FUI0)  
+[TecAdmin](https://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/)
